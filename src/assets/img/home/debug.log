@@ -1,0 +1,12 @@
+[0530/163405:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0530/163421:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0530/163424:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0530/163426:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0530/175826:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0530/175828:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0530/180447:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0530/180453:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0530/180501:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0530/180509:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0530/180509:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 13
+[0530/180509:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 15
